@@ -1,6 +1,6 @@
 
 
-   ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JungeeYoo&fontSize=70&animation=twinkling)
+   ![header](https://capsule-render.vercel.app/api?type=soft&color=fba197&height=150&section=header&text=JungeeYoo&fontSize=60&animation=twinkling)
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
