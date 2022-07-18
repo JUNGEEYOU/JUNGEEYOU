@@ -43,7 +43,10 @@
 
 <div align="center" style="text-align:center">
   
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=ryu-e.tistory.com&postId=10&theme=kakao)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ryu-e.tistory.com&postId=10)](https://github.com/loosie/github-readme-tistory-card)
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ryu-e.tistory.com)](https://github.com/loosie/github-readme-tistory-card)
+
 </div>
   
 <br>
