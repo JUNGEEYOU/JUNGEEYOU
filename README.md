@@ -5,7 +5,9 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNGEEYOU)](https://github.com/anuraghazra/github-readme-stats) 
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junge2u)](https://solved.ac/junge2u)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNGEEYOU&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    
  <br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
