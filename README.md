@@ -4,8 +4,10 @@
 
 
 
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNGEEYOU)](https://github.com/anuraghazra/github-readme-stats)   [![Solved.ac
-   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junge2u)](https://solved.ac/junge2u)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNGEEYOU)](https://github.com/anuraghazra/github-readme-stats)   
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junge2u)](https://solved.ac/junge2u)
+   
+ <br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
