@@ -1,6 +1,6 @@
 
 
-   ![header](https://capsule-render.vercel.app/api?type=soft&color=fba197&height=150&section=header&text=JungeeYoo&fontSize=60&animation=twinkling)
+   ![header](https://capsule-render.vercel.app/api?type=soft&color=fba197&height=150&section=header&text=JungeeYoo&fontSize=60&animation=twinkling&fontColor=eeeeee)
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -54,7 +54,7 @@
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="[https://ryu-e.tistory.com/](https://ryu-e.tistory.com/)"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logoColor=white&link=[https://ryu-e.tistory.com](https://ryu-e.tistory.com/)](https://ryu-e.tistory.com/)"/></a>&nbsp
+  <a href="https://ryu-e.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logoColor=white&link=https://ryu-e.tistory.com"/></a>&nbsp
   <a href="mailto:junge2u@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=junge2u@gmail.com"/></a>
 </p>
 <br>
