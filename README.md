@@ -1,6 +1,6 @@
 
 
-   ![header](https://capsule-render.vercel.app/api?type=soft&color=fba197&height=150&section=header&text=JungeeYoo&fontSize=60&animation=twinkling&fontColor=eeeeee)
+   ![header](https://capsule-render.vercel.app/api?type=soft&color=91b4ed&height=150&section=header&text=JungeeYoo&fontSize=60&animation=twinkling&fontColor=eeeeee)
 
 
 
